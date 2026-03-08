@@ -2,7 +2,7 @@
 
 <img width="530" height="480" alt="Screenshot_20260308_134958" src="https://github.com/user-attachments/assets/7af5f0f2-77f1-47a6-85da-d80ea6a3420d" />
 
-A lightweight, real-time system monitoring tool written in Java. This application provides essential hardware statistics including CPU load, memory usage, temperature, and network traffic. It features both a terminal-based Command Line Interface (CLI) and a Swing-based Graphical User Interface (GUI).
+A simple lightweight, real-time system monitoring tool written in Java. This application provides essential hardware statistics including CPU load, memory usage, temperature, and network traffic. It features both a terminal-based Command Line Interface (CLI) and a Swing-based Graphical User Interface (GUI).
 
 ## Features
 
