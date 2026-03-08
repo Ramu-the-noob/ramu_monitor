@@ -1,5 +1,7 @@
 # Ramu Monitor
 
+<img width="530" height="480" alt="Screenshot_20260308_134958" src="https://github.com/user-attachments/assets/7af5f0f2-77f1-47a6-85da-d80ea6a3420d" />
+
 A lightweight, real-time system monitoring tool written in Java. This application provides essential hardware statistics including CPU load, memory usage, temperature, and network traffic. It features both a terminal-based Command Line Interface (CLI) and a Swing-based Graphical User Interface (GUI).
 
 ## Features
@@ -32,9 +34,10 @@ Before running this project, ensure you have the following installed:
    ```bash
    mvn clean package
    ```
-   
    Once the build completes, the executable JAR file will be located in the `target/` directory (e.g., `ramu-monitor-1.0-SNAPSHOT.jar`).
-
+   
+4. Run the application:
+java -jar target/ramu-monitor-1.0-SNAPSHOT.jar `note : it might me named differently from ramu-monitor-1.0-snapshot.jar chack first`
 
 ## Technologies Used
 
