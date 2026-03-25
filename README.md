@@ -37,7 +37,7 @@ Before running this project, ensure you have the following installed:
    Once the build completes, the executable JAR file will be located in the `target/` directory (e.g., `ramu-monitor-1.0-SNAPSHOT.jar`).
    
 4. Run the application:
-java -jar target/ramu-monitor-1.0-SNAPSHOT.jar `note : it might me named differently from ramu-monitor-1.0-snapshot.jar chack first`
+java -jar target/Ramu-Monitor-v1.0.jar
 
 ## Technologies Used
 
