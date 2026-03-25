@@ -25,8 +25,8 @@ Before running this project, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ramu-monitor.git
-   cd ramu-monitor
+   git clone https://github.com/YOUR_USERNAME/ramu_monitor
+   cd ramu_monitor
    ```
 
 2. **Build the project**:
