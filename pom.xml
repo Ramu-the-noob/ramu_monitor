@@ -7,7 +7,7 @@
     <groupId>dev.ramu</groupId>
     <artifactId>ramu-monitor</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+         <finalName>Ramu-Monitor-v1.0</finalName>
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
